@@ -1,4 +1,5 @@
 phonegap-test
 =============
 
-Testing av Phonegap
+
+Testing av MIN Phonegap
